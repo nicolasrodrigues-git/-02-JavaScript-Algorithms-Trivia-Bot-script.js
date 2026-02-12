@@ -1,6 +1,3 @@
-# -02-JavaScript-Algorithms-Trivia-Bot-script.js
-A collection of my freeCodeCamp exercises and projects across various certifications.
-
 # 🎓 Minha Jornada no freeCodeCamp
 
 Bem-vindo ao meu repositório de estudos! Aqui organizo todos os exercícios e projetos que desenvolvo enquanto conquisto as certificações do **freeCodeCamp**.
